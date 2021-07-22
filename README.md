@@ -17,12 +17,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on Mobile Developer.
-- 🌱 I’m currently learning more about Flutter Framework.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCx6kfBTNMI50wHbL3qMetoA).
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hieuphan94/) , [Facebook](https://www.facebook.com/DoreKakalot/)
-- ⚡ Fun: Coding is fun in a serious way.
+- 🔭  I’m currently working on Mobile Developer.
+- 🌱  I’m currently learning more about Flutter Framework.
+- 👯  I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCx6kfBTNMI50wHbL3qMetoA).
+- 💬  Ask me about Flutter or any tech-related stuff.
+- 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hieuphan94/) , [Facebook](https://www.facebook.com/DoreKakalot/)
+- ⚡  Fun: Coding is fun in a serious way.
 
 <div align="center">
 
