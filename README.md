@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCx6kfBTNMI50wHbL3qMetoA).
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hieuphan94/) , [Facebook](https://www.facebook.com/DoreKakalot/)
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun: Coding is fun in a serious way.
 
 <div align="center">
 
