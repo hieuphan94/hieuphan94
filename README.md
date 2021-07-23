@@ -1,6 +1,6 @@
-## Hi, I'm [HieuPhan!](http://hiflutter.com/) 👋
+## Hi, I'm [HieuPhan](https://hiflutter.com/) 👋
 
-# Coding weirdly is fun!
+# Coding weirdly is fun
 
 <a href="https://www.linkedin.com/in/hieuphan94/">
   <img align="left" alt="Hieu Phan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,6 +18,7 @@
 📱 I’m currently working as Mobile Developer.<br/>
 🌱 I’m learning about Flutter Framework and making few series: Layouts, Setups, Architects, and Projects.<br/>
 📧 How to reach me: Linkedin, Youtube, Github<br/>
+🗺 Website: https://hiflutter.com/
 
 <div align="center">
 
