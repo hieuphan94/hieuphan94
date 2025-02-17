@@ -9,7 +9,7 @@
   <img align="left" alt="Hieu Phan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/><br/>
-📱 I’m currently working as Blockchain Developer.<br/>
+📱 I’m currently working as Web2, Web3 Developer.<br/>
 📧 How to reach me: Linkedin, Youtube, Github<br/>
 🗺 Website: https://hidacode.com/
 
