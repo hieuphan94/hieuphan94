@@ -10,8 +10,9 @@
 </a>
 <br/><br/>
 📱 I’m currently working as Web2, Web3 Developer.<br/>
+I'm a AI Learner + Software Developer base on AI Tools also.
 📧 How to reach me: Linkedin, Youtube, Github<br/>
-🗺 Website: https://hidacode.com/
+🗺 Website: https://hidablock.com/
 
 <div align="center">
 
